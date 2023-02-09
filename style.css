@@ -1,0 +1,57 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+.half-width {
+    width: 100%;
+    padding-left: 3%;
+}
+
+.half-width img {
+    width: 90%;
+}
+
+.down {
+    padding-bottom: 20px;
+}
+
+.amet {
+    text-align: left;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-bottom: 100px;
+
+}
+
+.top-side {
+    margin-top: 20px;
+}
+
+.content {
+    color: tomato;
+}
+
+.button {
+    text-decoration: none;
+    background: linear-gradient(green, tomato);
+    color: white;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+
+.experience-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+}
