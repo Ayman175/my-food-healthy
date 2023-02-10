@@ -5,11 +5,11 @@ body {
 
 .flexible-container {
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 130px;
 }
 
 h1 {
-    font-size: 45px;
+    font-size: 35px;
 }
 
 .half-width {
@@ -29,7 +29,7 @@ h1 {
     text-align: left;
     padding-left: 200px;
     padding-right: 200px;
-    margin-bottom: 100px;
+    margin-bottom: 160px;
 
 }
 
@@ -54,4 +54,55 @@ h1 {
     margin-left: 5%;
     margin-right: 5%;
     box-shadow: 10px 10px 40px gray;
+}
+
+.half-width .start {
+    width: 90%;
+    margin-top: 5%;
+}
+
+.half-width .start-end {
+    padding-right: 15%;
+}
+
+.half-width .shes {
+    width: 65%;
+}
+
+.half-width .end {
+    padding-right: 10%;
+}
+
+.experience-item {
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px gray;
+    margin-bottom: 100px;
+
+}
+
+.reveniew {
+    box-shadow: 10px 10px 20px gray;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 100px;
+    padding-left: 50px;
+}
+
+.rawha {
+    text-align: center;
+    background-color: black;
+    padding: 10px 10px 90px;
+
+}
+
+.shohel {
+    color: white;
+}
+
+.rawha p {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
