@@ -94,7 +94,7 @@ h1 {
 .rawha {
     text-align: center;
     background-color: black;
-    padding: 10px 10px 90px;
+    padding: 10px 10px 80px;
 
 }
 
@@ -105,4 +105,8 @@ h1 {
 .rawha p {
     color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.kaiful {
+    margin-bottom: 30px;
 }
